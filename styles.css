@@ -1,0 +1,118 @@
+body{
+    font-family: "Montserrat";
+  }
+  h3{
+    font-family: "Montserrat-bold";
+  }
+  h2{
+    font-family: "Montserrat-Bold";
+    line-height: 1.5;
+    font-size: 2rem;
+  }
+  .container-fluid{
+    padding: 5% 15% 7%;
+  }
+  .container-top-header{
+    padding-right: 8px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #ffff;
+  }
+  .linkcolor{
+    color: #ffff;
+  }
+  #title{
+    background-image: url(Images/newbg.png);
+    color: #ffff;
+  }
+  .headtext{
+    font-family: "Montserrat-Black";
+    font-size: 4rem;
+    line-height: 1;
+  }
+  .navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+  
+  }
+  .nav-item{
+    padding: 0 8px;
+  }
+  @media(max-width: 1028px){
+    #title{
+      text-align: center;
+    }
+  }
+  #about{
+    padding: 100px;
+    text-align: center;
+  }
+  .dpic{
+    width: 15rem;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    padding-top: 3rem;
+  }
+  #footer{
+    text-align: center;
+    background-color: #e43f5a;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    color: #ffff;
+  }
+  .abouttext{
+  
+    text-align: center;
+    font-family: "Montserrat-Black";
+    font-size: 1.5rem;
+    background-color: #ffff;
+  }
+  #technology{
+  
+    background-color: #1F4068;
+    color: #ffff;
+    text-align: center;
+  
+  }
+  .icon{
+    padding-bottom: 5%;
+  }
+  .tech-box{
+    text-align: center;
+    padding: 4.5%;
+  }
+  .container-tech{
+    padding: 5% 5%;
+    position: relative;
+  
+  }
+  .techhead{
+    font-family: "Montserrat-Black";
+    padding-top: 4rem;
+  }
+  .tech-name{
+    padding-bottom: 5%;
+  }
+  #contact{
+  
+    background-color: #ffffff;
+    text-align: center;
+  
+  }
+  .card-header{
+    font-family: "Montserrat-Black";
+  }
+  .mailtext{
+    padding-bottom: 3%;
+  }
+  .fab-cust{
+    padding-top: 1rem;
+    padding-left: 2rem;
+  }
+  .cardhedbg{
+    background-color: #c3edea;
+  }
+  .getstartbutton{
+    margin: 5% 3% 5% 0;
+  }
